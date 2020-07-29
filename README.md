@@ -10,5 +10,5 @@
 
 [参考教程3 也是很优秀的教程](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
-
+参考了特征工程入门这本书，之前的教程都没教如何提升模型，以及为什么要这样进行特征工程。现在系统地学习了一遍。这本书相当不错。
 
