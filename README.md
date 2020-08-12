@@ -4,6 +4,8 @@
 
 三个教程使用的方法都不一样，学习的方法就是遇到不会的先跟着做，查询资料
 
+第一个小的比赛使用的是泰坦尼克号数据，请参照Titanic\_tutories这个教程
+
 [参考教程1 主要是参考这个教程](https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy)
 
 [参考教程2 和之前的教程1进行对比](https://www.kaggle.com/startupsci/titanic-data-science-solutions)
