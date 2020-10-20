@@ -1,5 +1,14 @@
 [TOC]
 
+# 数据下载说明
+
+这里以泰坦尼克数据下载进行说明
+
+- 对文件点击右键，复制文件链接
+- 然后找到任意一款软件，迅雷或者fdm，将链接复制进去就可以下载了
+
+<img src="http://ww1.sinaimg.cn/large/005KJzqrly1gjw3iprms3j30ez0ejgoz.jpg" alt="image.png" style="zoom: 67%;" />
+
 # Completion training
 
 为了锻炼自己的编程能力和对算法的理解，我准备使用kaggle比赛实战来提神自己，参考的教程是kaggle上大佬们写的notebook
