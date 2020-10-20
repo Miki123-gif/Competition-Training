@@ -53,7 +53,7 @@
 
 比赛地址：https://www.kaggle.com/c/digit-recognizer
 
-数据地址：
+数据地址：https://github.com/Miki123-gif/Competition-Training/tree/master/Digit%20Recognizer/Data
 
 赛题说明：MINIST数据集包含了大量的手写数字集，有0-9一共10个类别的手写数字。在这次挑战中，你的目标是准确识别这些手写数字。希望你能使用不同的机器学习算法，比较各种算法的不同。
 
@@ -63,7 +63,7 @@
 
 比赛地址：https://tianchi.aliyun.com/competition/entrance/231784/information
 
-数据地址：
+数据地址：https://github.com/Miki123-gif/Competition-Training/tree/master/%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BA%A4%E6%98%93%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B
 
 赛题说明：你的任务是根据提供的特征，对二手车的交易价格进行预测。该数据来自某交易平台的二手车交易记录，总数据量超过40w，包含31列变量信息，其中15列为匿名变量。为了保证比赛的公平性，将会从中抽取15万条作为训练集，5万条作为测试集A，5万条作为测试集B，同时会对name、model、brand和regionCode等信息进行脱敏。
 
@@ -73,7 +73,7 @@
 
 比赛地址：https://tianchi.aliyun.com/competition/entrance/231593/information
 
-数据地址：
+数据地址：https://github.com/Miki123-gif/Competition-Training/tree/master/o2o%20predicthttps://github.com/Miki123-gif/Competition-Training/tree/master/o2o%20predict
 
 赛题说明：什么是O2O，表示线上online，对线下online。我们知道一个商家投放消费券给客户，如果投放给老客户，可以促进他们二次消费，如果投放给新用户，可以吸引他们进店消费。如果滥发消费券，很容易造成资源浪费。本赛题提供用户在2016年1月1日至2016年6月30日之间真实线上线下消费行为，预测用户在2016年7月领取优惠券后15天以内的使用情况。注意： 为了保护用户和商家的隐私，所有数据均作匿名处理，同时采用了有偏采样和必要过滤。
 
@@ -83,7 +83,7 @@
 
 比赛地址：https://tianchi.aliyun.com/competition/entrance/231693/information
 
-数据地址：
+数据地址：https://github.com/Miki123-gif/Competition-Training/tree/master/Industrial%20steam%20forecast
 
 赛题说明：蒸汽可以推动发电机旋转，产生电能。在这一些列的能量转换中，影响发电效率的核心是锅炉的燃烧效率。锅炉的燃烧效率的影响因素很多，包括锅炉的可调参数，如燃烧给量，一二次风，引风，返料风，给水水量；以及锅炉的工况，比如锅炉床温、床压，炉膛温度、压力，过热器的温度等。在本次比赛中，**经脱敏后的锅炉传感器采集的数据（采集频率是分钟级别），根据锅炉的工况，预测产生的蒸汽量。**
 
